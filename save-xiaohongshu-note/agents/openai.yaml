@@ -1,0 +1,4 @@
+interface:
+  display_name: "保存小红书笔记"
+  short_description: "批量归档小红书正文、原图、运营标签和内容分类"
+  default_prompt: "使用 $save-xiaohongshu-note 将这些小红书链接和表格标签批量归档为 Markdown。"
